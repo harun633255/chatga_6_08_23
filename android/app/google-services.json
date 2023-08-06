@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87789333895",
+    "project_id": "chatga-84762",
+    "storage_bucket": "chatga-84762.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87789333895:android:80e0ead4d39e3fa0357722",
+        "android_client_info": {
+          "package_name": "net.chatga.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87789333895-qvrko35mdvadnhr1c40t5e7j5m37jgq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABBGp9AozMPmxGVU6UBuNRMB_bZ09AVYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87789333895-qvrko35mdvadnhr1c40t5e7j5m37jgq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
