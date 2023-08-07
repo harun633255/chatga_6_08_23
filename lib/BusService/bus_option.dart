@@ -25,6 +25,8 @@ class _BusOptionState extends State<BusOption> {
   List<BusSingle> list = [];
   bool isLoaded = false;
 
+  String test ="";
+
 
 
 
